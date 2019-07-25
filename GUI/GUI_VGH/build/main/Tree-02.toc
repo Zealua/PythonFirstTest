@@ -1,0 +1,5 @@
+('C:\\Users\\Manager\\Documents\\project\\python\\GUI\\GUI_VGH\\build\\main\\pyserial-3.4-py3.7.egg',
+ None,
+ {'EGG-INFO', '*.pyc', '*.cp37-win32.pyd', '*.py', '*.pyd', '*.pyw'},
+ 'DATA',
+ [])

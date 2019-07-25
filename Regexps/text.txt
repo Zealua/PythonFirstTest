@@ -1,0 +1,706 @@
+                         <!DOCTYPE html>      <html lang="en" prefix="fb: http://www.facebook.com/2008/fbml">      <head>     <title> Structural Engineer - Full time Job in Illinois (IL),  Engineering Career, Full Time Jobs in EcoShop South </title>   <script type="application/ld+json">{"@context":"http://schema.org/","@type":"JobPosting","datePosted":"2019-07-01T04:34:02","validThrough":"2100-01-01T12:00:00","title":"Structural Engineer - Full time","description":"\u003cp\u003e\u003cspan style\u003d\"font-family: Tahoma, Arial, Geneva, sans-serif; font-size: 12.8px;\"\u003eA Civil/Structural Engineer with experience in assessing structures against the risk of natural natural hazards is required by a leading Risk Management company based in the North West. Current areas of work include structural design/assessment of buildings and process plant; load assessments of new and existing facilities; seismic and wind retrofit design and facility risk surveys. In return, a salary of up to $200 000 plus a full benefits package is on offer, as well as the chance to work with an industry leading organisation.\u003c/span\u003e\u003cbr style\u003d\"font-family: Tahoma, Arial, Geneva, sans-serif; font-size: 12.8px;\" /\u003e\u003cbr style\u003d\"font-family: Tahoma, Arial, Geneva, sans-serif; font-size: 12.8px;\" /\u003e\u003cspan style\u003d\"font-family: Tahoma, Arial, Geneva, sans-serif; font-size: 12.8px;\"\u003eThe Civil/Structural Engineer will need to have experience in structural and process plant assessments. As well as this you will need be a chartered engineer, or close to achieving chartered status.\u003c/span\u003e\u003cbr style\u003d\"font-family: Tahoma, Arial, Geneva, sans-serif; font-size: 12.8px;\" /\u003e\u003cbr style\u003d\"font-family: Tahoma, Arial, Geneva, sans-serif; font-size: 12.8px;\" /\u003e\u003cspan style\u003d\"font-family: Tahoma, Arial, Geneva, sans-serif; font-size: 12.8px;\"\u003eIf this sounds like the sort of role for you, and you have the relevant experience, please apply today.\u003c/span\u003e\u003cbr style\u003d\"font-family: Tahoma, Arial, Geneva, sans-serif; font-size: 12.8px;\" /\u003e\u003cbr style\u003d\"font-family: Tahoma, Arial, Geneva, sans-serif; font-size: 12.8px;\" /\u003e\u003cspan style\u003d\"font-family: Tahoma, Arial, Geneva, sans-serif; font-size: 12.8px;\"\u003eThis advert was posted by Gold Group - one of the UK\u0027s leading niche recruitment consultancies. We span a variety of specialist industries and are the recruitment company to help you find your next career opportunity. We pride ourselves on our commitment to candidates and stick to our ethos of finding the right role for the right person. Visit our website or get in touch today to discuss this role, find out what else we\u0027ve got or just for a chat about the state of your industry. Services advertised by Gold Group are those of an Agency and/or an Employment Business.\u003c/span\u003e\u003c/p\u003e","hiringOrganization":{"@type":"Organization","name":"EcoShop South","logo":"https://demo.jobboardmount.com/main/download?id\u003d71\u0026entityId\u003d5\u0026fieldId\u003d152","sameAs":"http://www.jobboardmount.com"},"jobLocation":{"address":{"@type":"PostalAddress","postalCode":"Not specified","addressLocality":"Aledo","addressRegion":"Illinois (IL)"},"@type":"Place"},"industry":"Engineering","identifier":{"@type":"PropertyValue","name":"EcoShop South","value":"GHD6333"},"employmentType":["FULL_TIME"],"baseSalary":{"@type":"MonetaryAmount","currency":"USD","value":{"@type":"QuantitativeValue","value":"200000","unitText":"YEAR"}}}</script>  
+
+
+
+   <link rel="image_src" href="https://demo.jobboardmount.com/imglib/demo/logo5.png">          <meta property="og:title" content="Structural Engineer - Full time Job in Illinois (IL),  Engineering Career, Full Time Jobs in EcoShop South" /> <meta property="og:image" content="https://demo.jobboardmount.com/main/download?id=71&entityId=5&fieldId=152" /> <meta property="og:image:height" content="200" /> <meta property="og:image:width" content="200" /> <meta property="og:url" content="https://demo.jobboardmount.com/career/26580/Structural-Engineer-Full-Time-Illinois-Il-Aledo" /> <meta property="og:description" content="Structural Engineer - Full time Job; Location: Illinois (IL); Full Time job in EcoShop South Company;" />   <link href="/cm_files/30251_2670.ico" rel="shortcut icon" type="image/x-icon">  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> <meta name="description" content="Structural Engineer - Full time Job; Location: Illinois (IL); Full Time job in EcoShop South Company;">  <meta name="keywords" content="Structural Engineer - Full time jobs, Structural Engineer - Full time employment, Structural Engineer - Full time recruitment, Structural Engineer - Full time vacancies, Structural Engineer - Full time vacancies, Structural Engineer - Full time in Illinois (IL) career, staff Engineering"/>                        <meta name="Rating" content="General">  <meta name="revisit-after" content="1 Days">  <meta name="robots" content="all" />   <meta name="MSSmartTagsPreventParsing" content="true">  <meta name="dcterms.rightsHolder" content="Copyright 2008-2015 JobMount Job Board"> <meta name="viewport" content="width=device-width, initial-scale=1">  <META HTTP-EQUIV="expires" CONTENT="01-Jan-2100 00:00:00 CST"> <META NAME="GOOGLEBOT" CONTENT="unavailable_after: 01-Jan-2100 00:00:00 CST">    <script type="text/javascript">var ctx = "";</script>        <link rel="stylesheet" type="text/css" href="/css/template.css?v=1526822688"> <script type="text/javascript">var mobileMode = false;</script>             <script>delete String.prototype.contains; </script> <script type="text/javascript" src="/js/mootools.js?v=1526822688"></script> <script type="text/javascript" src="/js/mootools-more.js?v=1526822688"></script> <script type="text/javascript" src="/js/json-helper.js?v=1526822688"></script> <script type="text/javascript" src="/js/common.js?v=1526822688"></script> <script type="text/javascript" src="/js/js.js?v=1526822688"></script> <script type="text/javascript" src="/js/ajax/springxt-min.js?v=1526822688"></script>   <script src="https://www.google.com/recaptcha/api.js?onload=reCaptchaCallback&render=explicit&hl=en" async defer></script> <script>
+var reCaptchaCallback = function() {
+var elements = document.getElementsByClassName('g-recaptcha');
+for (var i = 0; i < elements.length; i++) {
+var id = elements[i];
+grecaptcha.render(id, {
+'sitekey' : '6LfHKQATAAAAAN_V0XjEuf-_zEZgFRfk2sT4fbjK'
+});
+}
+};
+</script>   <script type="text/javascript">
+var userName = "";
+var userEmail = "";
+var userLastLogin = "";
+</script>    <!-- disableDefaultGA: false --> <script type="text/javascript">
+var enableAnalytics = false;
+var _gaq = _gaq || [];
+</script>   <!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-6772673-7"></script> <script>
+enableAnalytics = true;
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-6772673-7', { 'anonymize_ip': true });
+
+gtag('set', {'UserType': '(not set)' });
+gtag('set', {'UserId': '(not set)' });
+ </script>    <script type="text/javascript" src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key=soddckcn4nr00x5></script>            <link rel="stylesheet" type="text/css" href="/js/chosen/chosen.min.css?v=1526822688"> <link rel="stylesheet" type="text/css" href="/js/chosen/jquery-ui.min.css?v=1526822688"> <script type="text/javascript" src="/js/chosen/jquery-3.1.1.min.js?v=1526822688"></script> <script type="text/javascript" src="/js/chosen/jquery-ui.min.js?v=1526822688"></script> <script type="text/javascript" src="/js/chosen/chosen.jquery.min.js?v=1526822688"></script> <script type="text/javascript" src="/bootstrap/js/bootstrap.min.js?v=1526822688"></script> <script type="text/javascript" src="/js/multiselect/bootstrap-multiselect.js?v=1526822688"></script>  <script>
+jQuery.noConflict();
+jQuery(function() {
+jQuery(".search select").chosen({disable_search_threshold: 1000});
+});
+</script>       <!-- Google Tag Manager --> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KCJZN86');</script> <!-- End Google Tag Manager -->  </head> <body class="bodyCandidate">  <!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KCJZN86" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->               <div id="cookiesAlert"> <style type="text/css">
+#holder{position:relative;}
+</style>     
+We use cookies. Find out about cookies <a href="/cm/privacy">here</a>. By continuing to browse this site you are agreeing to our use of cookies.
+<br />  <a href="?cookiesallowed=true&cc=1564043496247&" tabindex="1" class="btn">Accept</a> </div>                                                                                                                         <script type="text/javascript">
+window.addEvent('domready', function () {
+if ($$('.clogin-registration-act').length > 0) {
+   
+$$('a.clogin-registration-act').each(function(el) {
+var url = el.pathname;
+if(url && url.indexOf('void(0)') > -1 && el.baseURI) {
+var tmpA = document.createElement('a');
+tmpA.href = el.baseURI;
+url = tmpA.pathname;
+}
+if (url) {
+if (!/^\//.test(url)) url = '/'+url;
+el.onclick = function(){JsonHelper.setSessionAttribute('requestUri', url);};
+}
+//                    el.href = "javascript:void(0);";
+el.href = "/main/static/signIn";
+});
+}
+
+if ($$('.clogin-registration-act-nofollow').length > 0) {
+   
+$$('a.clogin-registration-act-nofollow').each(function(el) {
+//                    el.href = "javascript:void(0);";
+el.href = "/main/static/signIn";
+});
+}
+});
+</script>   <script type="text/javascript">
+window.addEvent('domready', function () {
+if ($$('.elogin-registration-act').length > 0) {
+    
+$$('a.elogin-registration-act').each(function(el) {
+var url = el.pathname;
+var hrefUrl = el.href;
+if (hrefUrl.indexOf('/buy?packageId=') > -1){
+//var pos = hrefUrl.lastIndexOf("packageId=");
+var subStr = hrefUrl.substring(hrefUrl.lastIndexOf("packageId="), hrefUrl.length);
+url = url + '?' + subStr;
+}
+if (url) {
+if (!/^\//.test(url)) url = '/' + url;
+el.onclick = function() {
+JsonHelper.setSessionAttribute('requestUri', url);
+};
+}
+//                    el.href = "javascript:void(0);";
+el.href = "/main/static/signIn";
+});
+}
+if ($$('.elogin-registration-act-nofollow').length > 0) {
+    
+
+$$('a.elogin-registration-act-nofollow').each(function(el) {
+//                    el.href = "javascript:void(0);";
+el.href = "/main/static/signIn";
+});
+}
+});
+</script>         <div id="holder" class="Tpl holder_job_details holder_inner   ">                                                                                                                                                                                                                
+
+<!-- begin wrapper  -->
+		<div class="wrapper">
+
+			<!-- begin header  -->
+			<div class="header">
+				<!-- begin wrap  -->
+				<div class="wrap">
+
+					<!-- begin logo  -->
+					<div class="logo"> <a href="/" title="logo"> <img src="/imglib/demo/logo5.png" style="max-width:145px;max-height:19px;" alt="logo logo" title="logo">  </a> </div>
+					<!-- end logo -->
+					
+					<!-- begin nav  -->
+					<div class="nav group">
+						<!-- begin nav-wrap  -->
+						<div class="nav-wrap">	
+							<span id="navToggle" class="nav-toggle hide-on-desktop"></span>
+							<span class="mobile-menu-text hide-on-desktop">Menu</span>
+							<span class="mobile-menu-close hide-on-desktop">x</span>
+							<ul id="dropdown-menu" class="dropdown-menu">      <li id="first" class="topId_job_search "> <a href="/candidate/job_search/quick/results" title="" >Job search</a>                  </li>          <li  class="topId_join_now "> <a href="/candidate/private/profile/resume/list " title="" class="clogin-registration-act">Post resume</a>                  </li>          <li  class="topId_30790 "> <a href="/candidate/private/search_agent/list" title="" class="clogin-registration-act">Job alerts</a>                  </li>          <li  class="topId_30050 "> <a href="/employer/list" title="" >Employers directory</a>                  </li>          <li  class="topId_contact_us "> <a href="/main/sendform/4/18/3472" title="" >Contact us</a>                  </li>       </ul>						
+							<ul class="sign-in-buttons hide-on-mobile">
+								<li class="login-links">
+									<a href="/main/static/signIn" class="btn-login registrationEmpCln-act" onclick="JsonHelper.setSessionAttribute('isSignInTab', 'true', true);">Sign in</a> <span class="menu-divider hide-on-mobile hide-on-tablet">/</span>   <a href="/main/static/candidateRegistration" class="registrationEmpCln-act">Register</a>																
+								</li>
+								<li class="switch-links"><span class="candSw"> <a onclick="setTabState('candidate');" href="/cm/candidates/join_now">Job Seeker</a> </span> <span class="emplSw switch-act"> <a onclick="setTabState('client');" href="/main/clients/products">Employer</a> </span> <script type="text/javascript">
+function setTabState(a) {
+JsonHelper.setSessionAttribute('tabState', a, true, null);
+}
+</script></li>
+							</ul>
+						</div>
+						<!-- end nav-wrap  -->
+					</div>
+					<!-- end nav -->
+					
+				</div>
+				<!-- end wrap -->
+			</div>
+			<!-- end header -->
+
+			<!-- begin container  -->
+			<div class="container-inner">
+				
+					<!-- begin wrap  -->
+					<div class="wrap group">
+
+						<!-- begin search  -->
+						    <div class="search group">                   <script type="text/javascript">
+function onSearchSubmitquickJobSearch() {
+var e;
+         
+e = document.forms["quickJobSearch"].elements["values[1].value"];
+if (e.value == "Keywords") {
+e.value = "";
+}
+      
+e = document.forms["quickJobSearch"].elements["values[2].value"];
+if (e.value == "Location") {
+e.value = "";
+}
+                  
+}
+</script>  <form id="quickJobSearch" class="search-form" onkeypress="submitFormOnEnter(event, function() { onSearchSubmitquickJobSearch();doAjaxSubmit(&#39;validate&#39;, &#39;quickJobSearch&#39;, {disableSpinner : true}); });" action="/candidate/job_search/quick" method="post" onsubmit="return false;">  <input name="currentUri" type="hidden" value="/career/26580/Structural-Engineer-Full-Time-Illinois-Il-Aledo"/>    <div class="form-fields group">      <div class="flineQ flineQ_2 flineQ_keyword  flineQ_before_button">                                                   <div class="input-no-lab"> <input id="criterion271_17" name="values[1].value" class="txt" title="What" tabindex="20" onfocus="if (this.value == &#39;Keywords&#39;) {this.value = &#39;&#39;; this.removeClass(&#39;colorEl&#39;);}" onblur="if (this.value == &#39;&#39;) {this.value = &#39;Keywords&#39;; this.addClass(&#39;colorEl&#39;);}" type="text" value="Keywords" maxlength="256" autocomplete="off"/>  <script type="text/javascript">
+window.addEvent('domready', function() {
+if ($('criterion271_17').value == '') $('criterion271_17').value = 'Keywords';
+});
+</script>  <script type="text/javascript">
+function defValueColor17(){
+if ($('criterion271_17').value == '' || $('criterion271_17').value != 'Keywords')
+$('criterion271_17').removeClass('colorEl');
+else
+$('criterion271_17').addClass('colorEl');
+}
+
+window.addEvent('domready', function() {
+defValueColor17();
+});
+
+if ($('criterion271_17') != undefined){
+defValueColor17();
+}
+</script>                   <script type="text/javascript">
+function split( val ) {
+return val.split( /,\s*/ );
+}
+function extractLast( term ) {
+return split( term ).pop();
+}
+document.addEvent('domready', function() {
+jQuery("#criterion271_17")
+// don't navigate away from the field on tab when selecting an item
+.on( "keydown", function( event ) {
+if ( event.keyCode === jQuery.ui.keyCode.TAB &&
+jQuery( this ).autocomplete( "instance" ).menu.active ) {
+event.preventDefault();
+}
+}).autocomplete({
+source: function( request, response ) {
+jQuery.ajax({
+url: "/main/json/getSuggestedItemsByTextAndCriterionId?value=" + extractLast( request.term ),
+dataType: "json",
+method: "POST",
+data: {id:'271'},
+success: function (data) {
+response(data);
+}
+});
+},
+search: function() {
+// custom minLength
+var term = extractLast( this.value );
+if ( term.length < 3 ) {
+return false;
+}
+},
+focus: function() {
+// prevent value inserted on focus
+return false;
+},
+select: function( event, ui ) {
+var terms = split( this.value );
+// remove the current input
+terms.pop();
+// add the selected item
+terms.push( ui.item.value );
+// add placeholder to get the comma-and-space at the end
+terms.push( "" );
+this.value = terms.join( ", " );
+return false;
+}
+})
+.data('ui-autocomplete')._renderItem = function( ul, item ) {
+var searchMask = extractLast(this.element.val());
+var regEx = new RegExp(searchMask, "ig");
+var replaceMask = "<b style=\"color:black;\">$&</b>";
+var html = item.label.replace(regEx, replaceMask);
+
+return jQuery("<li></li>")
+.data("item.autocomplete", item)
+.append(jQuery("<div></div>").html(html))
+.appendTo(ul);
+};
+});
+</script>  </div>   <div id="quickJobSearch.values[1].value.errors" class="errmsg"></div>        </div>      <div class="flineQ flineQ_3 flineQ_location  flineQ_before_button">                                                   <div class="input-no-lab"> <input id="criterion272_38" name="values[2].value" class="txt" title="Where" tabindex="20" onfocus="if (this.value == &#39;Location&#39;) {this.value = &#39;&#39;; this.removeClass(&#39;colorEl&#39;);}" onblur="if (this.value == &#39;&#39;) {this.value = &#39;Location&#39;; this.addClass(&#39;colorEl&#39;);}" type="text" value="Location" maxlength="256" autocomplete="off"/>  <script type="text/javascript">
+window.addEvent('domready', function() {
+if ($('criterion272_38').value == '') $('criterion272_38').value = 'Location';
+});
+</script>  <script type="text/javascript">
+function defValueColor38(){
+if ($('criterion272_38').value == '' || $('criterion272_38').value != 'Location')
+$('criterion272_38').removeClass('colorEl');
+else
+$('criterion272_38').addClass('colorEl');
+}
+
+window.addEvent('domready', function() {
+defValueColor38();
+});
+
+if ($('criterion272_38') != undefined){
+defValueColor38();
+}
+</script>                   <script type="text/javascript">
+function split( val ) {
+return val.split( /,\s*/ );
+}
+function extractLast( term ) {
+return split( term ).pop();
+}
+document.addEvent('domready', function() {
+jQuery("#criterion272_38")
+// don't navigate away from the field on tab when selecting an item
+.on( "keydown", function( event ) {
+if ( event.keyCode === jQuery.ui.keyCode.TAB &&
+jQuery( this ).autocomplete( "instance" ).menu.active ) {
+event.preventDefault();
+}
+}).autocomplete({
+source: function( request, response ) {
+jQuery.ajax({
+url: "/main/json/getSuggestedItemsByTextAndCriterionId?value=" + extractLast( request.term ),
+dataType: "json",
+method: "POST",
+data: {id:'272'},
+success: function (data) {
+response(data);
+}
+});
+},
+search: function() {
+// custom minLength
+var term = extractLast( this.value );
+if ( term.length < 3 ) {
+return false;
+}
+},
+focus: function() {
+// prevent value inserted on focus
+return false;
+},
+select: function( event, ui ) {
+var terms = split( this.value );
+// remove the current input
+terms.pop();
+// add the selected item
+terms.push( ui.item.value );
+// add placeholder to get the comma-and-space at the end
+terms.push( "" );
+this.value = terms.join( ", " );
+return false;
+}
+})
+.data('ui-autocomplete')._renderItem = function( ul, item ) {
+var searchMask = extractLast(this.element.val());
+var regEx = new RegExp(searchMask, "ig");
+var replaceMask = "<b style=\"color:black;\">$&</b>";
+var html = item.label.replace(regEx, replaceMask);
+
+return jQuery("<li></li>")
+.data("item.autocomplete", item)
+.append(jQuery("<div></div>").html(html))
+.appendTo(ul);
+};
+});
+</script>  </div>   <div id="quickJobSearch.values[2].value.errors" class="errmsg"></div>        </div>       <div class="group group-first"></div> <div class="flineQbox">  <input name="submit.quickJobSearch" tabIndex="21" type="button" value="Search Jobs" title="Search" onclick="onSearchSubmitquickJobSearch();doAjaxSubmit('validate', 'quickJobSearch', {disableSpinner : true})"/> </div> <div class="group"></div>    <div class="flineQ flineQ_5 flineQ_job_type flineQ_after_button">                                              <label for="criterion333">Job Type:</label>                        <select id="criterion333" name="values[4].array" class="multi" title="Job Type" tabindex="20" multiple="multiple">                  <option value="1481">Full Time</option>           <option value="350">Part Time</option>           <option value="50">Temporary</option>           <option value="2001">Contract</option>           <option value="2002">Freelance</option>           <option value="2003">Intern</option>           <option value="2004">Volunteer</option>           <option value="2005">Job Share</option>   </select><input type="hidden" name="_values[4].array" value="1"/> <script type="text/javascript">
+$("criterion333").set("data-placeholder", "Job Type");
+</script>        </div>      <div class="flineQ flineQ_6 flineQ_industry flineQ_after_button">                                                       <br />               <select id="criterion313" name="values[5].integer" class="txt" title="Industry" tabindex="20">  <option value="" selected="selected">Industry</option>                <option value="2285">Sample category</option>            <optgroup label="Accounting"/>               <option value="5413">......Senior accountant</option>               <option value="5414">......Junior accountant</option>               <option value="5415">......CFO</option>           </optgroup>   <option value="5426">Military</option>           <option value="5427">Veteran</option>           <option value="5428">Security</option>           <option value="5429">Environmental</option>           <option value="5430">Work from home</option>           <option value="5431">Healthcare</option>           <option value="5432">Manufacturing</option>           <option value="5433">Engineering</option>           <option value="5434">Finance</option>           <option value="5435">Power Plant</option>           <option value="5436">Administrative</option>           <option value="5437">Advertising</option>           <option value="5438">Agricultural</option>           <option value="5439">Architecture</option>           <option value="5440">Arts</option>           <option value="5441">Banking</option>           <option value="5442">Biotech</option>           <option value="5443">Business</option>           <option value="5444">Business Development</option>           <option value="5445">Cleaning</option>           <option value="5446">Clerical</option>           <option value="5447">Computer</option>           <option value="5448">Construction</option>           <option value="5449">Consulting</option>           <option value="5450">Customer Service</option>           <option value="5451">Education</option>           <option value="5452">Entry Level</option>           <option value="5453">Entertainment</option>           <option value="5454">Executive</option>           <option value="5455">Facilities</option>           <option value="5456">Food Service</option>           <option value="5457">Freelance</option>           <option value="5458">Government</option>           <option value="5459">Graphic Design</option>           <option value="5460">Hospitality</option>           <option value="5461">Hotel</option>           <option value="5462">Human Resources</option>           <option value="5463">Insurance</option>           <option value="5464">Internships</option>           <option value="5465">IT</option>           <option value="5466">Legal</option>           <option value="5467">Loans</option>           <option value="5468">Logistics</option>           <option value="5469">Management</option>           <option value="5470">Marketing</option>           <option value="5471">Mechanical</option>           <option value="5472">Media</option>           <option value="5473">Mental Health</option>           <option value="5474">Nonprofit</option>           <option value="5475">Nursing</option>           <option value="5476">Paralegal</option>           <option value="5477">Part-time</option>           <option value="5478">Pharmaceutical</option>           <option value="5479">Political</option>           <option value="5480">PR</option>           <option value="5481">Production</option>           <option value="5482">Publishing</option>           <option value="5483">QA</option>           <option value="5484">Real Estate</option>           <option value="5485">Religious</option>           <option value="5486">Restaurant</option>           <option value="5487">Retail</option>           <option value="5488">Sales</option>           <option value="5489">Science</option>           <option value="5490">Seasonal</option>           <option value="5491">Service</option>           <option value="5492">Software</option>           <option value="5493">Sport</option>           <option value="5494">Summer</option>           <option value="5495">Teaching</option>           <option value="5496">Technology</option>           <option value="5497">Telecommunications</option>           <option value="5498">Temporary</option>           <option value="5499">Training</option>           <option value="5500">Transportation</option>           <option value="5501">Travel</option>           <option value="5502">Truck Driving</option>           <option value="5503">Volunteer</option>           <option value="5504">Volunteering</option>           <option value="5505">Writing</option>           <option value="5506">Conservancy</option>           <option value="5507">Aviation</option>           <option value="5508">Conglomerate</option>   </select> <script type="text/javascript">
+$("criterion313").set("data-placeholder", "Industry");
+</script>        </div>      <div class="flineQ flineQ_7 flineQ_state flineQ_after_button">                                                       <br />               <select id="criterion317" name="values[6].integer" class="txt" title="State" tabindex="20">  <option value="" selected="selected">State</option>                <option value="2289">Alabama (AL)</option>           <option value="2290">Alaska (AK)</option>           <option value="2291">Arizona (AZ)</option>           <option value="2292">Arkansas (AR)</option>           <option value="2293">California (CA)</option>           <option value="2294">Colorado (CO)</option>           <option value="2295">Connecticut (CT)</option>           <option value="2296">Delaware (DE)</option>           <option value="2297">D.C. (DC)</option>           <option value="2298">Florida (FL)</option>           <option value="2299">Georgia (GA)</option>           <option value="2300">Hawaii (HI)</option>           <option value="2301">Idaho (ID)</option>           <option value="2302">Illinois (IL)</option>           <option value="2303">Indiana (IN)</option>           <option value="2304">Iowa (IA)</option>           <option value="2305">Kansas (KS)</option>           <option value="2306">Kentucky (KY)</option>           <option value="2307">Louisiana (LA)</option>           <option value="2308">Maine (ME)</option>           <option value="2309">Maryland (MD)</option>           <option value="2310">Massachusetts (MA)</option>           <option value="2311">Michigan (MI)</option>           <option value="2312">Minnesota (MN)</option>           <option value="2313">Mississippi (MS)</option>           <option value="2314">Missouri (MO)</option>           <option value="2315">Montana (MT)</option>           <option value="2316">Nebraska (NE)</option>           <option value="2317">Nevada (NV)</option>           <option value="2318">New Hampshire (NH)</option>           <option value="2319">New Jersey (NJ)</option>           <option value="2320">New Mexico (NM)</option>           <option value="2321">New York (NY)</option>           <option value="2322">North Carolina (NC)</option>           <option value="2323">North Dakota (ND)</option>           <option value="2324">Ohio (OH)</option>           <option value="2325">Oklahoma (OK)</option>           <option value="2326">Oregon (OR)</option>           <option value="2327">Pennsylvania (PA)</option>           <option value="2328">Rhode Island (RI)</option>           <option value="2329">South Carolina (SC)</option>           <option value="2330">South Dakota (SD)</option>           <option value="2331">Tennessee (TN)</option>           <option value="2332">Texas (TX)</option>           <option value="2333">Utah (UT)</option>           <option value="2334">Vermont (VT)</option>           <option value="2335">Virginia (VA)</option>           <option value="2336">Washington (WA)</option>           <option value="2337">West Virginia (WV)</option>           <option value="2338">Wisconsin (WI)</option>           <option value="2339">Wyoming (WY)</option>   </select> <script type="text/javascript">
+$("criterion317").set("data-placeholder", "State");
+</script>        </div>      <div class="flineQ flineQ_8 flineQ_post_code flineQ_after_button">                                                <div class="fline flineQ_within">          <select id="criterion331" name="values[7].value.distance" title="Distance" tabindex="20" onchange="onSelectXmiles331();">  <option value="0">Post Code</option>  <option value="5">5 miles</option> <option value="10">10 miles</option> <option value="15">15 miles</option> <option value="20">20 miles</option> <option value="30">30 miles</option> <option value="40">40 miles</option> <option value="50">50 miles</option> <option value="100">100 miles</option> </select> </div> <div class="fline flineQ_zip_post_code"> <input id="values[7].value.postCode331" name="values[7].value.postCode" class="txt" style="display :none;" title="Post Code" tabindex="20" type="text" value="" maxlength="256"/> </div> <script type="text/javascript">
+window.addEvent('domready', function() {
+$("criterion331").set("data-placeholder", "Post Code");
+if ($('values[7].value.postCode331').value == '') $('values[7].value.postCode331').value = '';
+});
+</script>  <script type="text/javascript">
+function onSelectXmiles331(){
+var e = document.getElementById('criterion331');
+var strUser = e.options[e.selectedIndex].value;
+var x = document.getElementById('values[7].value.postCode331');
+if (strUser > 0){
+x.style.display = "block";
+e.getParent('.fline').getNext().removeClass('fline-inactive');
+} else {
+x.value = "";
+x.style.display = "none";
+e.getParent('.fline').getNext().addClass('fline-inactive');
+}
+};
+window.onload = onSelectXmiles331();
+</script> <div id="quickJobSearch.values[7].value.postCode.errors" class="errmsg"></div>       </div>     </div> <input type="hidden" name="submit.quickJobSearch"/>  </form>   <input class="hide-on-desktop js-show-form" type="button" value='Search Jobs'> <a href="/" class="adv-s">Advanced search</a> </div>
+						<!-- end search -->
+						
+					</div>
+					<!-- end wrap -->					
+			
+			</div>
+			<!-- end container-inner -->
+
+			<!-- begin content  -->
+			<div class="content content-main">
+				<!-- begin wrap  -->
+				<div class="wrap group">				
+
+					<!-- begin col-left  -->
+					<div class="col-left">						
+						<h1 class="page-title">               Structural Engineer - Full time&nbsp;job&nbsp;in&nbsp;Aledo       </h1>             <script type="text/javascript" src="/js/google-analytics.js?v=1526822688"></script>  <script type="text/javascript">
+window.addEvent("domready", function() {
+JsonHelper.vacancyViewAction(26580);
+});
+</script>  <script type="text/javascript">
+
+function print_preview() {
+var h = 700;
+var w = 630;
+var left = (screen.availWidth - w) / 2;
+var top = (screen.availHeight - h) / 2;
+wc=window.open(location.href + '?print', 'wi',
+'resizable=yes,toolbar=no,location=no,directories=no,status=yes,menubar=no, ' +
+'width=' + w + ', height=' + h + ',scrollbars=yes,fullscreen=no,top='+top+', left='+left);
+wc.focus();
+}
+
+</script>                    <div class="job-alert"> <a name="alert" href="#alert" style="display: none;">#alert</a>    <div id="job-alert" class="create_search"> <form id="agent" style="margin: 0; padding: 0;" action="/candidate/private/search_agent/quickedit" method="post"> <p class="quick_job_alert">     <input name="currentUri" type="hidden" value="/career/26580/Structural-Engineer-Full-Time-Illinois-Il-Aledo"/>   <div class="fline"> <label for="email">Notify me of jobs like this:<em class="note">*</em></label> <input type="text" id="email" name="email" tabindex="50" value="Your e-mail" onfocus="if(this.value == 'Your e-mail') {this.value = ''; this.removeClass('colorEl');}" onblur="if (this.value == '') {this.value = 'Your e-mail'; this.addClass('colorEl');}"> <div id="agent.email.errors" class="errmsg"></div> </div>    <script type="text/javascript">
+
+
+window.addEvent('domready', function() {
+if ($('email') != undefined){
+if (  $('email').value == '')
+$('email').removeClass('colorEl');
+else
+$('email').addClass('colorEl');
+}
+
+if($('name') != undefined){
+if ($('name').value == '')
+$('name').removeClass('colorEl');
+else
+$('name').addClass('colorEl');
+}
+});
+
+function clearErrorMessage(isName){
+if (isName){
+var spanNameError = document.getElementById("agent.name.errors");
+if(spanNameError != undefined){
+spanNameError.innerHTML = "";
+}
+} else {
+var spanEmailError = document.getElementById("agent.email.errors");
+
+if(spanEmailError != undefined){
+spanEmailError.innerHTML = "";
+}
+}
+}
+
+function setErrorMessage(textMsg, isName){
+if(isName){
+var spanNameError = document.getElementById("agent.name.errors");
+if(spanNameError != undefined){
+spanNameError.innerHTML = textMsg;
+}
+} else {
+var spanEmailError = document.getElementById("agent.email.errors");
+if(spanEmailError != undefined){
+spanEmailError.innerHTML = textMsg;
+}
+}
+}
+
+function checkNotEmpty(){
+clearErrorMessage(true);
+var alertName = document.forms["agent"].elements["name"];
+if (alertName != undefined) {
+if (alertName.value == "") {
+setErrorMessage('Fill in name for email alert', true);
+return false;
+}
+}
+return true;
+}
+</script> <table style="border-collapse: collapse;" class="createJobAlertTbl"> <tr> <td class="agentTd_2">        <div id="jobalert-act1" title="jobAlert" class="inline-act jobalert-login-act" style="display: none"> </div> <div id="jobalert-act2" title="jobAlert" class="inline-act jobalert-registration-act" style="display: none"> </div> <div id="jobalert-act0" title="jobAlert" class="inline-act"> <div class="but_st"><input name="submit.agent" type="button" tabindex="50" value="Set Alert" /></div> </div> <script type="text/javascript">
+function onAlertSubmit() {
+var alertEmail = "";
+var e = document.forms["agent"].elements["email"];
+if (e != undefined) {
+if (e.value == "Your e-mail") {
+e.value = "";
+}
+alertEmail = e.value;
+}
+JsonHelper.setSessionAttribute('requestUri', '/candidate/private/search_agent/quickedit?submit.agent=Create&currentUri=/career/26580/Structural-Engineer-Full-Time-Illinois-Il-Aledo', true);
+JsonHelper.setSessionAttribute('requestParamsAlert', '');
+JsonHelper.jobAlertUserCheck(alertEmail, function(data) {
+clearErrorMessage(false);
+if(data['isEmptyEmail']){
+setErrorMessage('Email must be entered', false);
+return;
+}
+if (data['isEmployer']){
+setErrorMessage('Employer email is entered', false);
+}else {
+if (data['newCandidate']) {
+JsonHelper.setSessionAttribute('newCandidateSetAlert', 'true');
+document.location.href='/main/static/candidateRegistration';
+//                                                    $$('.jobalert-registration-act').fireEvent('click');
+}
+else {
+document.location.href='/main/static/signIn';
+//                                                    $$('.jobalert-login-act').fireEvent('click');
+}
+}
+});
+}
+
+$('jobalert-act0').addEvent('click', function () {
+onAlertSubmit();
+});
+$('agent').addEvent("submit", function() {
+return false;
+});
+$('agent').addEvent("keypress", function() {
+submitFormOnEnter(event, function () {
+onAlertSubmit();
+});
+});
+</script>  </td> </tr> </table> </form> </div> </div>                  <div class="job-view-links"> <a class="btn-back" href="/" tabindex="10" >Back to search results</a> <span class="divider hide">/</span> <a class="btn-similar hide" href="/candidate/job_search/similar/results?id=26580" tabindex="10" >More jobs like this</a> </div> <script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js?v="></script> <script type="text/javascript">stLight.options({publisher: "d8322d3d-a599-4c50-8393-c2e085396e6e", doNotHash: false, doNotCopy: false, hashAddressBar: false, onhover: false});</script> <div class="icons-search"> <span class="share-icon"> <span class='st_sharethis' displayText=''>Share</span> </span> </div>        <div class="search-job-result ">  <div class="logo_vacancy"> <div class="logo-vacancy-inner"> <a href="/employer/company/643/Demo-Employer"><img src="/main/download?id=71&entityId=5&fieldId=152" alt="EcoShop South jobs" style="max-height: 90px; max-width:200px;"/></a> </div> </div>  <h2 class="job-info-top">           <span class="location">Aledo,                                                        
+Illinois (IL)</span>   <span class="salary">                     
+$200 000
+    </span>         </h2> <table class="job__fields">           <tr><td class="f vac_item_ref"> Job Ref:&nbsp;</td><td>                           
+GHD6333
+   </td></tr>            <tr><td class="f vac_item_employer"> Employer:&nbsp;</td><td>       <a href="/employer/company/643/Demo-Employer" tabindex="10" >EcoShop South</a><br/>  </td></tr>             <tr><td class="f vac_item_industry"> Category:&nbsp;</td><td>                                                            
+Engineering
+                                                                                                                                                              </td></tr>            <tr><td class="f vac_item_job_type"> Job Type:&nbsp;</td><td>                                 
+Full Time
+                   </td></tr>              <tr><td class="f vac_item_salary_text"> Salary and Benefits:&nbsp;</td><td>                           
+$200 000
+   </td></tr>                                                <tr> <td colspan="2" class="f vac_item_location_section"> <br /><b>Location</b> </td> </tr>                    <tr><td class="f vac_item_region"> State:&nbsp;</td><td>                                                              
+Illinois (IL)
+                                                                                  </td></tr>            <tr><td class="f vac_item_city"> City:&nbsp;</td><td>                           
+Aledo
+   </td></tr>             <tr><td class="f vac_item_address"> Map:&nbsp;</td><td class="map">                         <div class="googlePlace">Illinois (IL) Aledo (<a onclick="initializeOrShowMap();" href="javascript: void(0);" tabindex="10" >Show on map</a>)</div> <div class="google_map"> <div id="slide375"> <div id="canvas375" style="height: 0px;"></div> </div> </div>            <script src="//maps.googleapis.com/maps/api/js?key=AIzaSyBPdeNBcxDhvLpXmvJQjDMVtwkD-hoZY4M&language=en&output=embed" type="text/javascript"></script> <script type="text/javascript">
+var map375ready = false;
+
+function placeAddress(lat, lng) {
+var map375;
+var latlng = new google.maps.LatLng(lat, lng);
+var myOptions = {
+zoom: 11,
+center: latlng,
+zoomControl: true,
+scaleControl: true,
+mapTypeId: google.maps.MapTypeId.ROADMAP
+};
+map375 = new google.maps.Map(document.getElementById("canvas375"), myOptions);
+var marker = new google.maps.Marker({
+map: map375,
+position: latlng
+});
+}
+
+function initializeOrShowMap() {
+if (map375ready === false) {
+jQuery("#canvas375").css('height', '300px');
+
+placeAddress(41.2008018, -90.7416);
+
+map375ready = true;
+} else {
+jQuery("#slide375").toggle(400);
+}
+}
+</script>  </td></tr>                                                                                                <tr> <td colspan="2" class="f vac_item_description"> <br /><b>Description</b> </td> </tr>                <tr><td colspan="2" class="job_desc_td">                                     
+<p><span style="font-family: Tahoma, Arial, Geneva, sans-serif; font-size: 12.8px;">A Civil/Structural Engineer with experience in assessing structures against the risk of natural natural hazards is required by a leading Risk Management company based in the North West. Current areas of work include structural design/assessment of buildings and process plant; load assessments of new and existing facilities; seismic and wind retrofit design and facility risk surveys. In return, a salary of up to $200 000 plus a full benefits package is on offer, as well as the chance to work with an industry leading organisation.</span><br style="font-family: Tahoma, Arial, Geneva, sans-serif; font-size: 12.8px;" /><br style="font-family: Tahoma, Arial, Geneva, sans-serif; font-size: 12.8px;" /><span style="font-family: Tahoma, Arial, Geneva, sans-serif; font-size: 12.8px;">The Civil/Structural Engineer will need to have experience in structural and process plant assessments. As well as this you will need be a chartered engineer, or close to achieving chartered status.</span><br style="font-family: Tahoma, Arial, Geneva, sans-serif; font-size: 12.8px;" /><br style="font-family: Tahoma, Arial, Geneva, sans-serif; font-size: 12.8px;" /><span style="font-family: Tahoma, Arial, Geneva, sans-serif; font-size: 12.8px;">If this sounds like the sort of role for you, and you have the relevant experience, please apply today.</span><br style="font-family: Tahoma, Arial, Geneva, sans-serif; font-size: 12.8px;" /><br style="font-family: Tahoma, Arial, Geneva, sans-serif; font-size: 12.8px;" /><span style="font-family: Tahoma, Arial, Geneva, sans-serif; font-size: 12.8px;">This advert was posted by Gold Group - one of the UK's leading niche recruitment consultancies. We span a variety of specialist industries and are the recruitment company to help you find your next career opportunity. We pride ourselves on our commitment to candidates and stick to our ethos of finding the right role for the right person. Visit our website or get in touch today to discuss this role, find out what else we've got or just for a chat about the state of your industry. Services advertised by Gold Group are those of an Agency and/or an Employment Business.</span></p>
+ </td></tr>                                     </table> </div> <div class="ref-date">    <span class="ref">ref: (GHD6333)</span>    <span class="post_date">23 days ago</span>  </div>                       <div id="butsBox"> <table class="buts"> <tr><td>      <table width="100%"> <tbody> <tr> <td> <span id="apply-26580-act" href="#" title="Apply" class="inline-act apply-act"> <input name="apply" type="button" class="apply-26580-act" tabindex="10" value="Apply" onclick="apply();"/> </span> </td>  <td class="btn-save-box">  <input class="btn-save clogin-registration-act" name="save" type="button" tabindex="10" onclick="JsonHelper.setSessionAttribute('requestUri', '/candidate/private/savevacancy?vacancyId=26580', true);location.href='/main/static/signIn';" value="SAVE THIS JOB"/>  </td> <td class="similar-link hide"> <a class="btn-more" href="/candidate/job_search/similar/results?id=26580">MORE JOBS LIKE THIS</a> </td> <td class="print-preview hide"> <input type="button" class="btn-print" value="Print" onclick="print_preview()" /> </td> </tr>  </tbody> </table>   <script type="text/javascript"> 
+//                                    window.addEvent('domready', function () {
+      
+//                                    });
+ </script> <script type="text/javascript">
+function apply() {
+
+trackEvent(_gaq, 'Vacancy', 'JobApply', '/career/26580/Structural-Engineer-Full-Time-Illinois-Il-Aledo', null);
+JsonHelper.setSessionAttribute('requestUri', '/candidate/job_apply?vacancyId=26580', true, function() {
+  
+location.href = '/main/static/signIn';
+});
+
+}
+</script>         </td> </tr> </table> </div> <a class="btn-back" href="/" tabindex="10" >Back to search results</a>                                                                                                                                                                                                                                 
+
+</div>
+					<!-- end col-left -->														
+				
+					<!-- begin col-right  -->
+					<div class="col-right">						
+																						
+						<!-- begin similar-jobs  -->						
+						<div class="featured-jobs similar-jobs">
+							<!-- begin wrap  -->
+							<div class="wrap">
+								<h2>Jobs like this one</h2> <ul>  <li> <a class="job-link" href="/career/26595/Structural-Engineer-Full-Time-Illinois-Il-Aledo" tabindex="50" > <span class="featured-jobs-title">Structural Engineer - Full time</span> <span class="featured-jobs-location">       <span class="sp_sh_item sp_sh_employer">                        
+ABC Construction (branded)
+   </span>                <span class="sp_sh_item sp_sh_city">                     
+Aledo
+    </span>                                                           </span> </a>    <span class="company-logo"><span> <img src="/main/download?id=72&entityId=5&fieldId=152" title="Abc-Construction-Branded"/> </span></span>  </li>  <li> <a class="job-link" href="/career/26575/Structural-Engineer-Full-Time-Illinois-Il-Aledo" tabindex="50" > <span class="featured-jobs-title">Structural Engineer - Full time</span> <span class="featured-jobs-location">       <span class="sp_sh_item sp_sh_employer">                        
+EcoShop South
+   </span>                <span class="sp_sh_item sp_sh_city">                     
+Aledo
+    </span>                                                           </span> </a>    <span class="company-logo"><span> <img src="/main/download?id=71&entityId=5&fieldId=152" title="Demo-Employer"/> </span></span>  </li>  </ul> <a class="btn-white hide-on-desktop" href="/candidate/job_search/similar/results?id=26580" rel="nofollow" tabindex="50" >VIEW MORE</a> <a class="btn-white hide-on-mobile" href="/candidate/job_search/similar/results?id=26580" rel="nofollow" tabindex="50" >VIEW MORE</a> <script type="text/javascript">
+window.addEvent('domready', function() {
+$$('.job-view-links .divider, .job-view-links .btn-similar, #butsBox .similar-link').removeClass('hide');
+});
+</script>																							
+							</div>	
+							<!-- end wrap -->
+						</div>
+						<!-- end similar-jobs -->																
+																						
+						<!-- begin featured-jobs  -->						
+						<div class="featured-jobs">
+							<!-- begin wrap  -->
+							<div class="wrap">
+								<h2>Featured jobs</h2>
+								<ul class="fjList">        <li > <a class="job-link" tabindex="50" href="/career/100014/City-Major-Assistant"> <span class="featured-jobs-title">City Major Assistant</span> <span class="featured-jobs-location">       <span class="sp_sh_item sp_sh_employer">                        
+Darmstadt City Council
+   </span>                <span class="sp_sh_item sp_sh_city">                     
+Darmschtadt
+    </span>                                                           </span> </a>  </li>       <li > <a class="job-link" tabindex="50" href="/career/26581/Plant-Operator-Alabama-Al-Montgomery"> <span class="featured-jobs-title">Plant Operator</span> <span class="featured-jobs-location">       <span class="sp_sh_item sp_sh_employer">                        
+EcoShop South
+   </span>                <span class="sp_sh_item sp_sh_city">                     
+Montgomery
+    </span>                                                           </span> </a>  <span class="company-logo"><span> <img src="/main/download?id=71&entityId=5&fieldId=152" alt="Demo-Employer"/> </span></span>  </li>       <li > <a class="job-link" tabindex="50" href="/career/26580/Structural-Engineer-Full-Time-Illinois-Il-Aledo"> <span class="featured-jobs-title">Structural Engineer - Full time</span> <span class="featured-jobs-location">       <span class="sp_sh_item sp_sh_employer">                        
+EcoShop South
+   </span>                <span class="sp_sh_item sp_sh_city">                     
+Aledo
+    </span>                                                           </span> </a>  <span class="company-logo"><span> <img src="/main/download?id=71&entityId=5&fieldId=152" alt="Demo-Employer"/> </span></span>  </li>  </ul>								
+								<a href="/candidate/job_search/featured/results" class="btn-white hide-on-desktop">MORE JOBS LIKE THOSE</a>
+								<a href="/candidate/job_search/featured/results" class="btn-white hide-on-mobile">View more</a>
+							</div>	
+							<!-- end wrap -->
+						</div>
+						<!-- end featured-jobs -->
+						
+						<!-- begin banner-320x320  -->
+						<div class="banner-320x320">
+							<div style="margin-bottom: 20px;"><a target="_blank" href="https://www.webspidermount.com/try-it-free/"><img src="/imglib/banners/wsm-banner.png" alt="webspidermount try it free" /></a></div><div><a target="_blank" href="https://www.jobboardmount.com/schedule-demo/"><img src="/imglib/banners/jm-banner.png" alt="jobboardmount schedule demo" /></a></div>
+						</div>
+						<!-- end banner-320x320 -->
+
+					</div>
+					<!-- end col-right -->
+									
+				</div>
+				<!-- end wrap -->
+			</div>
+			<!-- end content -->									
+				
+			<!-- begin desktop-banner for candidate  -->
+<div class="desktop-banner banner-candidate"  style="background: url(/imglib/demo/slide_2.jpg);">
+	<div class="desktop-banner-image">                            
+		<h2>Don't miss your dream job.</h2>
+		<div class="buttons">
+			<a class="clogin-registration-act hide-on-desktop" href="/candidate/private/search_agent/list">SET UP JOB ALERTS</a>
+			<a class="clogin-registration-act hide-on-mobile" href="/candidate/private/search_agent/list">JOB ALERTS</a>
+			<a class="clogin-registration-act hide-on-mobile" href="/candidate/private/profile/resume/list">POST A CV</a>
+	    </div>
+		<!-- end buttons -->
+	</div>
+	<!-- end desktop-image -->	
+</div>
+<!-- end desktop-banner for candidate -->
+
+<!-- begin desktop-banner for employer  -->
+<div class="desktop-banner banner-employer" style="background: url(/imglib/demo/slide_2.jpg);">
+	<div class="desktop-banner-image">                            
+		<h2>Find best talents</h2>		
+		<div class="buttons">
+			<a href="/main/clients/products">Advertise jobs</a>
+			<a class="elogin-registration-act" href="/cm/client/adv_resume_search">Search resumes</a>
+	    </div>
+		<!-- end buttons -->
+	</div>
+	<!-- end desktop-image -->	
+</div>
+<!-- end desktop-banner for employer -->
+
+			<!-- begin content  -->
+			<div class="content">
+				<!-- begin wrap  -->
+				<div class="wrap group">				
+				<!-- begin featured-recruiters  -->
+				<div class="featured-recruiters">
+					<!-- begin wrap  -->
+					<div class="wrap">
+						<h2>Featured employers</h2>
+						<ul class="group">  <li> <a href="/employer/company/643/Demo-Employer" title="Max"> <img src="/imglib/demo/2016-05-12_160114.png" alt="Max" /> </a> </li>  <li> <a href="/employer/company/643/Demo-Employer" title="Sunny"> <img src="/imglib/demo/2016-05-12_160130.png" alt="Sunny" /> </a> </li>  <li> <a href="/employer/company/643/Demo-Employer" title="Minun"> <img src="/imglib/demo/2016-05-12_160121.png" alt="Minun" /> </a> </li>  <li> <a href="/employer/company/643/Demo-Employer" title="Mem"> <img src="/imglib/demo/2016-05-12_160114.png" alt="Mem" /> </a> </li>  <li> <a href="/employer/company/643/Demo-Employer" title="Ipsum"> <img src="/imglib/demo/2016-05-12_160130.png" alt="Ipsum" /> </a> </li>  <li> <a href="/employer/company/643/Demo-Employer" title="Lorem"> <img src="/imglib/demo/2016-05-12_160121.png" alt="Lorem" /> </a> </li>  </ul>						
+					</div>
+					<!-- end wrap -->
+				</div>
+				<!-- end featured-recruiters -->
+
+				<!-- begin .footer-menu.hide-on-mobile  -->
+				<div class="footer-menu hide-on-mobile">
+					<a href="/candidate/job_search/quick/results" id="bMenuItem_1" title="" >Job search</a>   <a href="/candidate/private/profile/resume/list" id="bMenuItem_2" title="" class="clogin-registration-act">Post resume</a>   <a href="/candidate/private/search_agent/list" id="bMenuItem_3" title="" class="clogin-registration-act">Job alerts</a>   <a href="/main/sendform/4/18/3472" id="bMenuItem_4" title="" >Contact us</a>                                        
+				</div>
+				<!-- end .footer-menu.hide-on-mobile -->
+
+				<!-- begin seo-section  -->
+				<div class="seo-section">
+					<!-- begin wrap  -->
+					<div class="wrap">
+						<div class="row">
+<h3>Popular locations:</h3>
+<span><a href="/illinois-il" title="Illinois (IL) jobs">Illinois (IL)</a> <span>(4)</span> | <a href="/maryland-md" title="Maryland (MD) jobs">Maryland (MD)</a> <span>(4)</span> | <a href="/alabama-al" title="Alabama (AL) jobs">Alabama (AL)</a> <span>(3)</span> | <a href="/alaska-ak" title="Alaska (AK) jobs">Alaska (AK)</a> <span>(3)</span> | <a href="/missouri-mo" title="Missouri (MO) jobs">Missouri (MO)</a> <span>(2)</span> | <a href="/new-york-ny" title="New York (NY) jobs">New York (NY)</a> <span>(2)</span> | <a href="/california-ca" title="California (CA) jobs">California (CA)</a> <span>(2)</span></span></div>
+<div class="row">
+<h3>Popular categories:</h3>
+<span><a href="/engineering" title="Engineering jobs">Engineering</a> <span>(10)</span> | <a href="/service" title="Service jobs">Service</a> <span>(4)</span> | <a href="/advertising" title="Advertising jobs">Advertising</a> <span>(2)</span> | <a href="/banking" title="Banking jobs">Banking</a> <span>(2)</span> | <a href="/construction" title="Construction jobs">Construction</a> <span>(2)</span> | <a href="/insurance" title="Insurance jobs">Insurance</a> <span>(2)</span></span></div>
+<div class="row">
+<h3>Popular jobs:</h3>
+<span><a href="/engineer" title="Engineer jobs">Engineer</a> <span>(12)</span> | <a href="/accountant" title="Accountant jobs">Accountant</a> <span>(2)</span> | <a href="/plant-operator" title="Plant Operator jobs">Plant Operator</a> <span>(2)</span></span></div>
+					</div>
+					<!-- end wrap -->
+				</div>
+				<!-- end seo-section -->
+
+				</div>
+				<!-- end wrap -->
+			</div>
+			<!-- end content -->
+			
+		</div>
+		<!-- end wrapper -->
+
+		<!-- begin footer  -->
+		<div class="footer">
+			<div class="wrap group">
+				<div class="copyright">All rights reserved. <span>JobMount Demo.</span></div>
+				<div class="powered">Powered by JobMount <a href="http://www.jobboardmount.com/" target="_blank">Job Board Software</a></div>
+			</div>			
+		</div>
+		<!-- end footer -->   </div> </body> </html>   
