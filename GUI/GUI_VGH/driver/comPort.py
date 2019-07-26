@@ -17,14 +17,28 @@ def init(port,text2):
     except (OSError, serial.SerialException):
         pass
     
+def disconnect(text2):
+    global s
+    text2.configure(state=tkinter.NORMAL)
+    text2.insert(1.0,'COM-port Disconnect'+"\n")
+    text2.configure(state=tkinter.DISABLED)
+    s.close();
+    print('COM-port Disconnect')
+
 def write(text):
     global s
-    s.write(text)
+    try:
+        s.write(text)
+    except serial.SerialException:
+         print('com port disconnect')
 
 def read():
     global s 
-    text=str(s.read(s.inWaiting()));
-    return text
+    try:
+        text=str(s.read(s.inWaiting()));
+        return text
+    except serial.SerialException:
+        print('com port disconnect')
     
 def findCom():
     global s
